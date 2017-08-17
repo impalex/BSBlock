@@ -102,6 +102,7 @@
 ||*.cloudleadia.com$third-party
 ||*.promit.ru$third-party
 ||*.venyoo.ru$third-party
+||*.leadia.ru$third-party
 */chat_sborka/*
 !
 !
