@@ -103,6 +103,7 @@
 ||*.promit.ru$third-party
 ||*.venyoo.ru$third-party
 ||*.leadia.ru$third-party
+||*.yurist-konsult.ru/consultant/*
 */chat_sborka/*
 !
 !
