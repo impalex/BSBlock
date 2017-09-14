@@ -104,6 +104,7 @@
 ||*.venyoo.ru$third-party
 ||*.leadia.ru$third-party
 ||yurist-konsult.ru/consultant/*
+||cdn.envybox.io$third-party
 */chat_sborka/*
 !
 !
