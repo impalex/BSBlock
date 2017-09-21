@@ -105,6 +105,7 @@
 ||*.leadia.ru$third-party
 ||yurist-konsult.ru/consultant/*
 ||cdn.envybox.io$third-party
+||cdn.livechatinc.com$third-party
 */chat_sborka/*
 !
 !
