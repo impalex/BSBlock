@@ -1,4 +1,4 @@
-[Adblock]
+﻿[Adblock]
 ! Title: BSBlock
 ! Homepage: https://github.com/deNULL/BSBlock
 ! Expires: 3 days
@@ -107,6 +107,7 @@
 ||cdn.envybox.io$third-party
 ||cdn.livechatinc.com$third-party
 */chat_sborka/*
+||cdn.sendpulse.com$third-party
 !
 !
 ! Реклама на отдельных сайтах
