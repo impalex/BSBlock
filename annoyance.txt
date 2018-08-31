@@ -1,5 +1,5 @@
 [Adblock]
-! Title: BSBlock
+! Title: Annoyance
 ! Version: 1
 ||online-video.rbc.ru
 qaru.site##script:contains(adblockHtml)
