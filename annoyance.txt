@@ -1,0 +1,6 @@
+[Adblock]
+! Title: BSBlock
+! Version: 1
+||online-video.rbc.ru
+qaru.site##script:contains(adblockHtml)
+overclockers.ru##script:contains(kotik)
