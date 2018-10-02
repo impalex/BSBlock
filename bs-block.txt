@@ -108,6 +108,7 @@
 ||cdn.livechatinc.com$third-party
 */chat_sborka/*
 ||cdn.sendpulse.com$third-party
+||nedexpert.ru/promo.php$domain=nedexpert.ru
 !
 !
 ! Реклама на отдельных сайтах
